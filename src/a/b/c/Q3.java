@@ -5,4 +5,5 @@ package a.b.c;
  * Subversion revision: $Revision$
  */
 public class Q3 {
+    //
 }
