@@ -2,10 +2,8 @@ package a.b.c;
 
 /**
  * Created by Irina.Petrovskaya on 1/14/2015.
+ * Subversion revision: $Revision$
  */
-public class Q1 {
-    // br1
-    // head
-    // br2
-    // br4
+public class Q3 {
+    //head
 }
